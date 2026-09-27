@@ -163,20 +163,6 @@ Seed data: 2 demo users, 6 categories, 16 original recipes, 1 sample message.
 
 ---
 
-## 🖼️ Screenshots
-
-> _Add screenshots here before submitting, for example:_
-
-| Home | Browse & filter | Recipe |
-|---|---|---|
-| `screenshots/home.png` | `screenshots/recipes.png` | `screenshots/recipe.png` |
-
-| Dashboard | Add recipe | Mobile |
-|---|---|---|
-| `screenshots/dashboard.png` | `screenshots/add-recipe.png` | `screenshots/mobile.png` |
-
----
-
 ## 👤 Author
 
 - **Course:** ICT 2209 – Web Technologies, Rajarata University of Sri Lanka
