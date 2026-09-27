@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" preserveAspectRatio="xMidYMid slice" role="img" aria-label="A brass tray of New Year sweets beside an oil lamp">
+  <!-- Slider scene 4: Avurudu sweet table (original illustration) -->
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4A1019"/><stop offset="1" stop-color="#8E2A2A"/></linearGradient>
+    <radialGradient id="brass" cx="45%" cy="40%" r="60%"><stop offset="0" stop-color="#F7D88A"/><stop offset="1" stop-color="#C98A1E"/></radialGradient>
+    <g id="kokis">
+      <g fill="#EDB54E" stroke="#B9772F" stroke-width="3">
+        <ellipse cx="0" cy="-22" rx="11" ry="17"/><ellipse cx="0" cy="-22" rx="11" ry="17" transform="rotate(60)"/><ellipse cx="0" cy="-22" rx="11" ry="17" transform="rotate(120)"/>
+        <ellipse cx="0" cy="-22" rx="11" ry="17" transform="rotate(180)"/><ellipse cx="0" cy="-22" rx="11" ry="17" transform="rotate(240)"/><ellipse cx="0" cy="-22" rx="11" ry="17" transform="rotate(300)"/>
+        <circle r="11"/>
+      </g>
+      <circle r="4" fill="#8E2A2A"/>
+    </g>
+    <g id="kavum"><circle r="30" fill="#7A3B1B"/><circle r="22" fill="#8E4A26"/><path d="M-12-2q12-16 24 0q-12 10-24 0z" fill="#A8582C"/></g>
+  </defs>
+  <rect width="1200" height="520" fill="url(#bg4)"/>
+  <g fill="#F7D88A" opacity=".08"><circle cx="100" cy="100" r="60"/><circle cx="300" cy="420" r="90"/><circle cx="560" cy="80" r="40"/></g>
+  <!-- tray -->
+  <ellipse cx="860" cy="330" rx="290" ry="120" fill="#6E4A10"/>
+  <ellipse cx="860" cy="318" rx="290" ry="120" fill="url(#brass)"/>
+  <ellipse cx="860" cy="318" rx="250" ry="98" fill="none" stroke="#E0A93A" stroke-width="4"/>
+  <!-- banana leaf liner -->
+  <ellipse cx="860" cy="318" rx="220" ry="82" fill="#4E8A3A"/>
+  <!-- sweets -->
+  <use href="#kokis" transform="translate(740 300)"/><use href="#kokis" transform="translate(820 270) rotate(20)"/><use href="#kokis" transform="translate(760 360) rotate(40)"/>
+  <use href="#kavum" transform="translate(920 290)"/><use href="#kavum" transform="translate(985 330)"/><use href="#kavum" transform="translate(900 360)"/>
+  <g fill="#E8C48A" stroke="#C99A55" stroke-width="2"><path d="M1030 270l24 18-24 18-24-18z"/><path d="M1060 305l24 18-24 18-24-18z"/><path d="M840 330l20 15-20 15-20-15z"/></g>
+  <g fill="#F2E6D0"><circle cx="880" cy="250" r="12"/><circle cx="700" cy="340" r="10"/></g>
+  <!-- oil lamp (pahana) -->
+  <g transform="translate(560 330)">
+    <ellipse cx="0" cy="110" rx="60" ry="14" fill="#6E4A10"/>
+    <path d="M-10 100h20l10-80h-40z" fill="#C98A1E"/>
+    <path d="M-50 20q50 30 100 0q-10-18-50-18t-50 18z" fill="url(#brass)"/>
+    <path d="M0 -6q-14-22 0-50q14 28 0 50z" fill="#F7D88A"/>
+    <path d="M0 -10q-7-12 0-28q7 16 0 28z" fill="#FFF8E8"/>
+    <circle cx="0" cy="-26" r="60" fill="#F7D88A" opacity=".12"/>
+  </g>
+</svg>

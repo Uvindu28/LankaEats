@@ -1,0 +1,17 @@
+# LankaEats – files that should never be committed
+
+# User-uploaded recipe photos (keep the folder itself + its safety rules)
+images/uploads/*
+!images/uploads/.gitkeep
+!images/uploads/.htaccess
+
+# Machine-specific configuration overrides
+includes/config.local.php
+
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+.idea/

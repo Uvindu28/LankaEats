@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120"><!-- Category icon: Street Food / kottu griddle (original) -->
+  <circle cx="60" cy="60" r="56" fill="#F3E2D2"/>
+  <ellipse cx="60" cy="80" rx="46" ry="18" fill="#2B1D14"/>
+  <ellipse cx="60" cy="76" rx="46" ry="18" fill="#4F3A2D"/>
+  <rect x="38" y="70" width="10" height="5" rx="2" fill="#F2C66D" transform="rotate(20 43 72)"/>
+  <rect x="52" y="66" width="12" height="5" rx="2" fill="#F2C66D" transform="rotate(-15 58 68)"/>
+  <rect x="66" y="72" width="10" height="5" rx="2" fill="#F2C66D" transform="rotate(35 71 74)"/>
+  <rect x="46" y="78" width="9" height="4" rx="2" fill="#E07B39"/>
+  <rect x="72" y="80" width="8" height="4" rx="2" fill="#E07B39" transform="rotate(-20 76 82)"/>
+  <rect x="58" y="80" width="9" height="4" rx="2" fill="#7DB35A" transform="rotate(10 62 82)"/>
+  <rect x="80" y="70" width="8" height="4" rx="2" fill="#7DB35A"/>
+  <circle cx="62" cy="74" r="3" fill="#FFF3C4"/><circle cx="44" cy="82" r="2.5" fill="#FFF3C4"/>
+  <g transform="rotate(-22 42 44)"><rect x="36" y="30" width="13" height="36" rx="2" fill="#C9CED3"/><rect x="38" y="16" width="9" height="16" rx="3" fill="#6E3218"/></g>
+  <g transform="rotate(22 78 44)"><rect x="71" y="30" width="13" height="36" rx="2" fill="#DDE1E5"/><rect x="73" y="16" width="9" height="16" rx="3" fill="#6E3218"/></g>
+  <g fill="#E8A317"><circle cx="60" cy="40" r="2.5"/><circle cx="54" cy="32" r="1.8"/><circle cx="67" cy="34" r="1.8"/></g>
+</svg>

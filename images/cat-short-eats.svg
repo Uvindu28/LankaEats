@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120"><!-- Category icon: Short Eats / fish bun and triangle roti (original) -->
+  <circle cx="60" cy="60" r="56" fill="#FCEBD5"/>
+  <path d="M26 84L56 34 86 84Z" fill="#D98B3A" stroke="#D98B3A" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M36 78L56 44 72 72" fill="none" stroke="#EDB36A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity=".8"/>
+  <g fill="#FFF3DC"><ellipse cx="50" cy="62" rx="2" ry="1.2"/><ellipse cx="60" cy="56" rx="2" ry="1.2"/><ellipse cx="62" cy="70" rx="2" ry="1.2"/><ellipse cx="48" cy="76" rx="2" ry="1.2"/></g>
+  <path d="M74 98L94 70 104 98Z" fill="#F0CF8E" stroke="#F0CF8E" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M84 96L94 80" stroke="#D9A85A" stroke-width="2" stroke-linecap="round"/>
+</svg>

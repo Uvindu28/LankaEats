@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Rice and curry spread on a banana leaf">
+  <!-- Slider scene 1: Sunday rice & curry (original illustration) -->
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1F3B17"/><stop offset="1" stop-color="#3E6B2F"/></linearGradient>
+    <pattern id="dots1" width="36" height="36" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="2" fill="#FFF8E8" opacity=".07"/></pattern>
+    <linearGradient id="leaf1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7DBB55"/><stop offset="1" stop-color="#3C7A2A"/></linearGradient>
+    <radialGradient id="rice1" cx="40%" cy="35%" r="70%"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#EADFC7"/></radialGradient>
+  </defs>
+  <rect width="1200" height="520" fill="url(#bg1)"/>
+  <rect width="1200" height="520" fill="url(#dots1)"/>
+  <circle cx="880" cy="270" r="260" fill="#E8A317" opacity=".12"/>
+  <g transform="rotate(-12 880 270)">
+    <path d="M600 270C680 90 1080 80 1170 250 1090 440 690 450 600 270Z" fill="url(#leaf1)"/>
+    <path d="M600 270C760 258 980 252 1170 250" stroke="#C5E3A0" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <g stroke="#A3D07C" stroke-width="2" opacity=".45"><path d="M680 266l40-110M760 262l40-130M840 259l40-135M920 256l40-130M1000 254l40-115M1080 252l30-80M680 268l40 110M760 264l40 130M840 261l40 135M920 258l40 130M1000 256l40 115M1080 254l30 80"/></g>
+  </g>
+  <ellipse cx="870" cy="275" rx="120" ry="92" fill="url(#rice1)"/>
+  <circle cx="1030" cy="180" r="58" fill="#FFF8EA"/><circle cx="1030" cy="180" r="46" fill="#E8B53A"/>
+  <g fill="#3B2A20"><circle cx="1015" cy="190" r="3"/><circle cx="1040" cy="195" r="3"/><circle cx="1048" cy="172" r="3"/></g>
+  <circle cx="1060" cy="330" r="60" fill="#FFF8EA"/><circle cx="1060" cy="330" r="48" fill="#8B3A1E"/>
+  <g fill="#6B2A12"><rect x="1032" y="312" width="24" height="18" rx="7"/><rect x="1062" y="334" width="24" height="18" rx="7"/></g>
+  <ellipse cx="700" cy="180" rx="58" ry="40" fill="#D9582B"/>
+  <g fill="#FFF3E2"><circle cx="684" cy="172" r="4"/><circle cx="706" cy="162" r="3"/><circle cx="720" cy="186" r="4"/><circle cx="690" cy="195" r="3"/></g>
+  <path d="M660 350c10-30 60-40 84-18 20 18 8 50-24 54-32 4-68-6-60-36z" fill="#5E9B42"/>
+  <g fill="#A8D07F"><circle cx="684" cy="350" r="4"/><circle cx="708" cy="340" r="3"/><circle cx="720" cy="362" r="4"/></g>
+  <circle cx="880" cy="430" r="50" fill="#F4E3B5"/><g fill="#E6CB86"><circle cx="865" cy="420" r="6"/><circle cx="895" cy="440" r="7"/><circle cx="890" cy="412" r="4"/></g>
+</svg>

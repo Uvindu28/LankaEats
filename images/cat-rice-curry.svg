@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120"><!-- Category icon: Rice & Curry (original) -->
+  <circle cx="60" cy="60" r="56" fill="#FCEFD2"/>
+  <ellipse cx="60" cy="66" rx="45" ry="35" fill="#FFFFFF" stroke="#E6D6B8" stroke-width="3"/>
+  <ellipse cx="60" cy="66" rx="35" ry="26" fill="#F8F1E3"/>
+  <path d="M41 68c0-13 8.5-21 19-21s19 8 19 21z" fill="#FFFFFF" stroke="#E4D8BE" stroke-width="1.5"/>
+  <g fill="#E4D8BE"><ellipse cx="52" cy="60" rx="2.5" ry="1" transform="rotate(20 52 60)"/><ellipse cx="63" cy="56" rx="2.5" ry="1" transform="rotate(-25 63 56)"/><ellipse cx="68" cy="63" rx="2.5" ry="1"/></g>
+  <circle cx="35" cy="75" r="9" fill="#E8B53A"/>
+  <circle cx="85" cy="75" r="9" fill="#8B3A1E"/>
+  <ellipse cx="60" cy="88" rx="10" ry="6" fill="#D9582B"/>
+  <path d="M76 36c7-7 16-6 18-5-2 3-5 9-13 9-3 0-4-2-5-4z" fill="#3E6B2F"/>
+</svg>

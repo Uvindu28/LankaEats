@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Plain and egg hoppers with lunu miris at sunrise">
+  <!-- Slider scene 3: hoppers at sunrise (original illustration) -->
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E88F1A"/><stop offset="1" stop-color="#B5542C"/></linearGradient>
+    <symbol id="hopper" viewBox="0 0 240 140">
+      <path d="M8 34Q120 190 232 34Z" fill="#E4A95C"/>
+      <path d="M22 44Q120 160 218 44" fill="none" stroke="#C07A33" stroke-width="4" opacity=".5"/>
+      <ellipse cx="120" cy="34" rx="112" ry="28" fill="#F6DDAA"/>
+      <g fill="#E4A95C"><circle cx="14" cy="32" r="7"/><circle cx="44" cy="15" r="7"/><circle cx="82" cy="8" r="7"/><circle cx="120" cy="6" r="7"/><circle cx="158" cy="8" r="7"/><circle cx="196" cy="15" r="7"/><circle cx="226" cy="32" r="7"/></g>
+    </symbol>
+  </defs>
+  <rect width="1200" height="520" fill="url(#bg3)"/>
+  <circle cx="900" cy="170" r="130" fill="#F7D88A" opacity=".55"/>
+  <circle cx="900" cy="170" r="90" fill="#FBE7B0" opacity=".7"/>
+  <!-- table -->
+  <rect x="0" y="380" width="1200" height="140" fill="#6E3218"/>
+  <rect x="0" y="380" width="1200" height="10" fill="#8E4A26"/>
+  <!-- hoppers -->
+  <use href="#hopper" x="600" y="250" width="240" height="140"/>
+  <use href="#hopper" x="800" y="230" width="260" height="152"/>
+  <ellipse cx="930" cy="264" rx="38" ry="14" fill="#fff"/><circle cx="930" cy="262" r="12" fill="#F2A516"/>
+  <use href="#hopper" x="1010" y="262" width="210" height="122"/>
+  <!-- lunu miris bowl -->
+  <ellipse cx="700" cy="440" rx="70" ry="26" fill="#FFF8EA"/><ellipse cx="700" cy="436" rx="56" ry="18" fill="#C0392B"/>
+  <g fill="#FFD9C9"><circle cx="684" cy="432" r="4"/><circle cx="712" cy="440" r="4"/><circle cx="700" cy="428" r="3"/></g>
+  <!-- tea cup -->
+  <path d="M1040 420h110l-10 60h-90z" fill="#FFF8EA"/><path d="M1150 432c26 0 26 34 0 34" stroke="#FFF8EA" stroke-width="8" fill="none"/>
+  <ellipse cx="1095" cy="420" rx="55" ry="10" fill="#A0522D"/>
+  <g stroke="#FFF8E8" stroke-width="5" fill="none" stroke-linecap="round" opacity=".5"><path d="M1080 400c-14-20 14-26 0-46"/><path d="M1110 400c-14-20 14-26 0-46"/></g>
+</svg>

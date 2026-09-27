@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="LankaEats logo">
+  <!-- LankaEats logo: a steaming clay pot (chatti) with a curry leaf. Original artwork. -->
+  <circle cx="32" cy="32" r="31" fill="#E8A317"/>
+  <path d="M23 21c-3-3 3-5 0-9M32 20c-3-3 3-5 0-9M41 21c-3-3 3-5 0-9" stroke="#FFF8E8" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+  <path d="M12 30h40c0 11-8.5 20-20 20S12 41 12 30z" fill="#9A4A24"/>
+  <rect x="9" y="26.5" width="46" height="5" rx="2.5" fill="#6E3218"/>
+  <path d="M17 37.5h30" stroke="#F7D88A" stroke-width="2" stroke-dasharray="3 3"/>
+  <path d="M24 43.5h16" stroke="#F7D88A" stroke-width="1.6" stroke-linecap="round" opacity=".7"/>
+  <path d="M43 25c5-8 13-8 15-7-1 2-3 9-10 10-3 .4-4-1-5-3z" fill="#3E6B2F"/>
+  <path d="M44 26c4-3 8-5 12-7" stroke="#A8C98A" stroke-width="1" fill="none" stroke-linecap="round"/>
+</svg>

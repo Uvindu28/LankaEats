@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 480" role="img" aria-labelledby="heroTitle">
+  <title id="heroTitle">Rice and curry served on a banana leaf</title>
+  <!-- Original illustration for LankaEats: top-down rice & curry on a banana leaf -->
+  <defs>
+    <radialGradient id="riceG" cx="42%" cy="38%" r="65%"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#EDE2CB"/></radialGradient>
+    <linearGradient id="leafG" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#66A347"/><stop offset="1" stop-color="#2C5620"/></linearGradient>
+    <pattern id="grain" width="14" height="10" patternUnits="userSpaceOnUse">
+      <ellipse cx="4" cy="4" rx="3" ry="1.2" fill="#E2D5B8" transform="rotate(25 4 4)"/>
+      <ellipse cx="11" cy="8" rx="3" ry="1.2" fill="#E2D5B8" transform="rotate(-30 11 8)"/>
+    </pattern>
+    <clipPath id="leafClip"><path d="M40 250C120 110 440 90 530 230 450 380 130 400 40 250Z"/></clipPath>
+    <symbol id="curryLeaf" viewBox="0 0 30 14"><path d="M1 7C8-1 22-1 29 7 22 15 8 15 1 7Z" fill="#3E6B2F"/><path d="M2 7h26" stroke="#8DBB6A" stroke-width="1"/></symbol>
+  </defs>
+  <circle cx="290" cy="240" r="222" fill="#F7D88A" opacity=".55"/>
+  <circle cx="470" cy="80" r="26" fill="#E8A317" opacity=".35"/>
+  <circle cx="80" cy="410" r="18" fill="#9A4A24" opacity=".25"/>
+  <!-- banana leaf -->
+  <g transform="rotate(-16 285 245)">
+    <path d="M40 250C120 110 440 90 530 230 450 380 130 400 40 250Z" fill="url(#leafG)"/>
+    <g clip-path="url(#leafClip)" stroke="#86BC62" stroke-width="1.6" opacity=".6" fill="none">
+      <path d="M90 246l40-90M130 244l40-95M170 242l40-98M210 240l40-100M250 238l40-100M290 236l40-100M330 234l40-98M370 233l40-95M410 232l40-90M450 231l40-80"/>
+      <path d="M90 248l40 90M130 246l40 95M170 244l40 98M210 242l40 100M250 240l40 100M290 238l40 100M330 236l40 98M370 235l40 95M410 234l40 90M450 233l40 80"/>
+    </g>
+    <path d="M40 250C200 238 380 233 530 230" stroke="#B7D98F" stroke-width="5" fill="none" stroke-linecap="round"/>
+  </g>
+  <!-- papadam -->
+  <circle cx="300" cy="382" r="44" fill="#F4E3B5"/>
+  <g fill="#E6CB86"><circle cx="285" cy="370" r="5"/><circle cx="312" cy="365" r="3.5"/><circle cx="318" cy="392" r="6"/><circle cx="290" cy="398" r="3"/><circle cx="300" cy="382" r="2.5"/></g>
+  <circle cx="352" cy="396" r="34" fill="#F8EBC6"/>
+  <g fill="#E6CB86"><circle cx="345" cy="388" r="4"/><circle cx="362" cy="404" r="3"/></g>
+  <!-- rice -->
+  <ellipse cx="272" cy="242" rx="98" ry="78" fill="url(#riceG)"/>
+  <ellipse cx="272" cy="242" rx="98" ry="78" fill="url(#grain)" opacity=".9"/>
+  <!-- parippu (dhal) bowl -->
+  <circle cx="404" cy="168" r="50" fill="#FFF8EA" stroke="#E6D7BA" stroke-width="3"/>
+  <circle cx="404" cy="168" r="39" fill="#E8B53A"/>
+  <path d="M378 160c10-8 30-10 48 2" stroke="#F6D27A" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <g fill="#3B2A20"><circle cx="392" cy="176" r="2"/><circle cx="410" cy="182" r="2"/><circle cx="420" cy="170" r="2"/><circle cx="398" cy="158" r="2"/></g>
+  <use href="#curryLeaf" x="396" y="164" width="26" height="12" transform="rotate(-25 409 170)"/>
+  <!-- chicken curry bowl -->
+  <circle cx="428" cy="298" r="54" fill="#FFF8EA" stroke="#E6D7BA" stroke-width="3"/>
+  <circle cx="428" cy="298" r="43" fill="#8B3A1E"/>
+  <g fill="#6B2A12"><rect x="404" y="282" width="20" height="16" rx="6"/><rect x="432" y="300" width="22" height="16" rx="6"/><rect x="412" y="308" width="16" height="13" rx="5"/></g>
+  <ellipse cx="444" cy="280" rx="12" ry="5" fill="#C0582C" opacity=".8"/>
+  <!-- pol sambol -->
+  <ellipse cx="150" cy="158" rx="50" ry="34" fill="#D9582B"/>
+  <g fill="#FFF3E2"><circle cx="130" cy="150" r="3"/><circle cx="150" cy="140" r="2.5"/><circle cx="168" cy="160" r="3"/><circle cx="140" cy="170" r="2.5"/><circle cx="160" cy="175" r="2"/><circle cx="178" cy="148" r="2"/><circle cx="122" cy="165" r="2"/></g>
+  <ellipse cx="170" cy="132" rx="6" ry="3" fill="#7FB25C" transform="rotate(-20 170 132)"/>
+  <!-- gotukola mallum -->
+  <path d="M110 318c8-26 50-34 72-16 18 15 8 44-20 48-28 4-58-6-52-32z" fill="#5E9B42"/>
+  <g fill="#A8D07F"><circle cx="130" cy="318" r="3"/><circle cx="150" cy="310" r="2.5"/><circle cx="160" cy="330" r="3"/><circle cx="138" cy="335" r="2"/><circle cx="170" cy="315" r="2"/></g>
+  <g fill="#FFF8E8" opacity=".9"><circle cx="145" cy="322" r="1.8"/><circle cx="165" cy="340" r="1.8"/><circle cx="125" cy="330" r="1.8"/></g>
+  <!-- chilli and loose curry leaves -->
+  <path d="M470 400c20-6 38-22 44-44 3 0 6 2 6 5-6 26-28 44-50 46z" fill="#C0392B"/>
+  <path d="M514 356c2-6 6-9 10-10" stroke="#3E6B2F" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <use href="#curryLeaf" x="60" y="220" width="40" height="18" transform="rotate(30 80 229)"/>
+  <use href="#curryLeaf" x="490" y="120" width="38" height="17" transform="rotate(-50 509 128)"/>
+  <use href="#curryLeaf" x="220" y="60" width="34" height="15" transform="rotate(15 237 67)"/>
+  <!-- cinnamon stick -->
+  <g transform="rotate(-35 110 420)"><rect x="80" y="412" width="64" height="12" rx="6" fill="#9A4A24"/><rect x="80" y="415" width="64" height="4" rx="2" fill="#B8683B"/></g>
+</svg>

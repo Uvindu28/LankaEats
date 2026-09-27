@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Kottu roti being chopped on a hot griddle at night">
+  <!-- Slider scene 2: late-night kottu stall (original illustration) -->
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2B1409"/><stop offset="1" stop-color="#6E3218"/></linearGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#F7D88A" stop-opacity=".9"/><stop offset="1" stop-color="#F7D88A" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="520" fill="url(#bg2)"/>
+  <!-- string lights -->
+  <path d="M0 40Q300 110 600 50T1200 60" stroke="#4A2A18" stroke-width="3" fill="none"/>
+  <g fill="#F7D88A">
+    <circle cx="100" cy="62" r="7"/><circle cx="220" cy="80" r="7"/><circle cx="340" cy="82" r="7"/><circle cx="460" cy="68" r="7"/>
+    <circle cx="700" cy="44" r="7"/><circle cx="820" cy="38" r="7"/><circle cx="940" cy="46" r="7"/><circle cx="1060" cy="58" r="7"/><circle cx="1160" cy="62" r="7"/>
+  </g>
+  <g opacity=".35"><circle cx="820" cy="38" r="26" fill="url(#glow2)"/><circle cx="1060" cy="58" r="26" fill="url(#glow2)"/><circle cx="220" cy="80" r="26" fill="url(#glow2)"/></g>
+  <!-- griddle -->
+  <ellipse cx="880" cy="380" rx="290" ry="92" fill="#150A05"/>
+  <ellipse cx="880" cy="368" rx="290" ry="92" fill="#3B2A20"/>
+  <ellipse cx="880" cy="362" rx="250" ry="72" fill="#4F3A2D"/>
+  <!-- kottu heap -->
+  <g>
+    <path d="M700 380c30-70 330-80 360 0z" fill="#C98A3E"/>
+    <g fill="#F2C66D">
+      <rect x="740" y="340" width="40" height="14" rx="5" transform="rotate(18 760 347)"/><rect x="800" y="322" width="46" height="14" rx="5" transform="rotate(-12 823 329)"/>
+      <rect x="870" y="318" width="42" height="14" rx="5" transform="rotate(25 891 325)"/><rect x="930" y="332" width="40" height="14" rx="5" transform="rotate(-20 950 339)"/>
+      <rect x="990" y="350" width="36" height="13" rx="5" transform="rotate(12 1008 356)"/><rect x="840" y="352" width="44" height="14" rx="5"/>
+    </g>
+    <g fill="#E07B39"><rect x="770" y="360" width="30" height="8" rx="4" transform="rotate(-8 785 364)"/><rect x="900" y="352" width="28" height="8" rx="4" transform="rotate(30 914 356)"/><rect x="960" y="366" width="26" height="8" rx="4"/></g>
+    <g fill="#7DB35A"><rect x="820" y="342" width="26" height="8" rx="4" transform="rotate(40 833 346)"/><rect x="1000" y="340" width="24" height="8" rx="4" transform="rotate(-30 1012 344)"/><rect x="730" y="366" width="24" height="8" rx="4"/></g>
+    <g fill="#FFF3C4"><circle cx="880" cy="336" r="8"/><circle cx="790" cy="350" r="6"/><circle cx="950" cy="356" r="6"/></g>
+  </g>
+  <!-- blades -->
+  <g transform="rotate(-24 800 220)"><rect x="778" y="150" width="46" height="130" rx="4" fill="#C9CED3"/><rect x="778" y="150" width="10" height="130" fill="#E6EAEE"/><rect x="788" y="92" width="26" height="62" rx="8" fill="#6E3218"/></g>
+  <g transform="rotate(24 960 220)"><rect x="938" y="150" width="46" height="130" rx="4" fill="#DDE1E5"/><rect x="974" y="150" width="10" height="130" fill="#B9BFC5"/><rect x="948" y="92" width="26" height="62" rx="8" fill="#6E3218"/></g>
+  <!-- sparks & steam -->
+  <g fill="#E8A317"><circle cx="880" cy="270" r="5"/><circle cx="860" cy="250" r="3"/><circle cx="905" cy="245" r="4"/><circle cx="885" cy="228" r="3"/></g>
+  <g stroke="#FFF8E8" stroke-width="5" fill="none" stroke-linecap="round" opacity=".25"><path d="M760 300c-20-30 20-40 0-70"/><path d="M1020 300c-20-30 20-40 0-70"/></g>
+</svg>
