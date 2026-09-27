@@ -179,8 +179,6 @@ Seed data: 2 demo users, 6 categories, 16 original recipes, 1 sample message.
 
 ## 👤 Author
 
-- **Name:** [STUDENT NAME]
-- **Index No:** [INDEX NUMBER]
 - **Course:** ICT 2209 – Web Technologies, Rajarata University of Sri Lanka
 
 All recipe text and illustrations in this project are original work created for this assignment.
